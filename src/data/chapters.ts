@@ -1,10 +1,10 @@
-import video0 from "../assets/videos/0.mp4";
-import video1 from "../assets/videos/1.mp4";
-import video2 from "../assets/videos/2.mp4";
-import video3 from "../assets/videos/3.mp4";
-import video4 from "../assets/videos/4.mp4";
-import video5 from "../assets/videos/5.mp4";
-import video6 from "../assets/videos/6.mp4";
+import video0 from "@/assets/videos/0.mp4";
+import video1 from "@/assets/videos/1.mp4";
+import video2 from "@/assets/videos/2.mp4";
+import video3 from "@/assets/videos/3.mp4";
+import video4 from "@/assets/videos/4.mp4";
+import video5 from "@/assets/videos/5.mp4";
+import video6 from "@/assets/videos/6.mp4";
 
 const chapters = [
   {
